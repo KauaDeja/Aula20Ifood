@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dejai_000\\Desktop\\Aula20Ifood\\Aula20Ifood.csproj",
+      "projectUniqueName": "C:\\Users\\dejai_000\\Desktop\\Kaua Trabalhos\\Trabalhos BackEnd\\Aula20Ifood\\Aula20Ifood.csproj",
       "projectName": "Aula20Ifood",
-      "projectPath": "C:\\Users\\dejai_000\\Desktop\\Aula20Ifood\\Aula20Ifood.csproj",
+      "projectPath": "C:\\Users\\dejai_000\\Desktop\\Kaua Trabalhos\\Trabalhos BackEnd\\Aula20Ifood\\Aula20Ifood.csproj",
       "packagesPath": "C:\\Users\\dejai_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dejai_000\\Desktop\\Aula20Ifood\\obj\\",
+      "outputPath": "C:\\Users\\dejai_000\\Desktop\\Kaua Trabalhos\\Trabalhos BackEnd\\Aula20Ifood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dejai_000\\AppData\\Roaming\\NuGet\\NuGet.Config"

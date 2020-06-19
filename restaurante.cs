@@ -11,7 +11,7 @@ namespace Aula20Ifood
         }
 
         public string MostrarDados(){
-            return $"Nome Restaurante:{NomeRestaurante} Endereço:{Endereco}";
+            return $"Nome Restaurante:{NomeRestaurante} \nEndereço:{Endereco}\n";
         }
     }
 }

@@ -6,15 +6,17 @@ namespace Aula20Ifood
     {
         static void Main(string[] args)
         {
-            Cliente cliente = new Cliente("Kaua Deja");
-            Console.WriteLine(cliente.MostrarDados());
-            
+            Cliente kaua = new Cliente("Kaua Deja");
+            kaua.EnderecoAtual = "Avenida Renata";
+            restaurante BelaVista = new restaurante("Bela Vista","Rua Tecla 33");
 
-            restaurante restaurante = new restaurante("Bela Vista", "Avenida Renata 560");
-            Console.WriteLine(restaurante.MostrarDados());
-            
-            
-            Pedido pedido = new Pedido("Pizza Mussarela","Kaua","Bela Vista","Cartão-Debito");
+            Pedido pedido1 = new Pedido();
+            pedido1.Cliente = kaua;
+            pedido1.restaurante = BelaVista;
+
+            Console.WriteLine( pedido1.EntregarPedido() );
+
+
         }
     }
 }

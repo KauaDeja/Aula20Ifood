@@ -10,7 +10,7 @@ namespace Aula20Ifood
             
         }
         public string MostrarDados(){
-            return $"Cliente:{Nome}, Endereço:{EnderecoAtual}";
+            return $"Cliente:{Nome}, \nEndereço:{EnderecoAtual}\n";
         }
 
 
